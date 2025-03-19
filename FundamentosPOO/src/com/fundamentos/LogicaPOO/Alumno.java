@@ -24,7 +24,7 @@ public class Alumno {
   }
 
   public void mostrarNombre(String nombre){
-        System.out.println("Hola, Soy un alumno, mi nombre es: " + nombre);
+        System.out.println("Hola, Soy un alumno, Mi Nombre es: " + nombre);
   }
 
   public void saberAprobado(double calificacion){
